@@ -166,3 +166,4 @@ score = (Block1 + Block2 + Block3) - (Block4 ? 10 : 0)
 **Версия:** 1.0  
 **Дата обновления:** 2025
 
+Made by Viktoriya Gonchar
